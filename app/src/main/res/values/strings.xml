@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello">Hello World, kotakDialog!</string>
+    <string name="app_name">Membuat Kotak Dialog</string>
+    <string name="toastTextBtn">Pangil Toast</string>
+    <string name="exitTextBtn">Keluar Aplikasi</string>
+    <string name="listDialogTextBtn">Panggil List Dialog</string>
+</resources>
